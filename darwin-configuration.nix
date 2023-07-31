@@ -7,6 +7,7 @@
     [ pkgs.vim
       pkgs.neovim
       pkgs.neofetch
+      pkgs.gh
     ];
 
   # Use a custom configuration.nix location.
